@@ -12,7 +12,7 @@ def long_planeteer_calls(planeteer_calls)
 end
 
 def find_the_cheese(potentially_cheesy_items)
-  cheeses = 
+  cheeses = %w()
   
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
