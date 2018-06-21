@@ -13,7 +13,7 @@ end
 
 def find_the_cheese(potentially_cheesy_items)
   cheeses = %w(gouda chedder camembert)
-  potentially_cheesy_items.find?
+  potentially_cheesy_items.find do |maybe
   
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
